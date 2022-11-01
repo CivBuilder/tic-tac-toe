@@ -1,0 +1,27 @@
+.application {
+    text-align: center;
+}
+
+.cell {
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    font-size: 75px;
+    cursor: pointer;
+}
+
+#reset {
+    height: 50px;
+    width: 75px;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
